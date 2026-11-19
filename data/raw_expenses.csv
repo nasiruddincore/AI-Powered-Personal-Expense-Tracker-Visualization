@@ -1,0 +1,383 @@
+Date,Category,Amount,Payment_Method,Description
+2026-05-01,Rent,12000.0,Net Banking,Monthly Apartment Rent
+2026-05-01,Food & Dining,319.28,Credit Card,Zomato Lunch
+2026-05-01,Transport,1253.36,Credit Card,Uber Cab Ride
+2026-05-02,Food & Dining,519.66,Credit Card,Swiggy Dinner Order
+2026-05-02,Transport,610.55,Credit Card,HP Petrol Fuel
+2026-05-03,Shopping,1256.28,UPI,Decathlon Sportswear
+2026-05-03,Food & Dining,744.24,UPI,Swiggy Dinner Order
+2026-05-03,Groceries,1127.09,UPI,Reliance Fresh Vegetables
+2026-05-03,Groceries,2731.45,UPI,Zepto Dairy & Fruits
+2026-05-04,Transport,1211.92,UPI,Rapido Bike Taxi
+2026-05-04,Food & Dining,278.27,UPI,Starbucks Coffee
+2026-05-05,Bills & Utilities,1749.86,UPI,Electricity & Broadband WiFi Bill
+2026-05-05,Bills & Utilities,399.0,UPI,Mobile Postpaid Recharge
+2026-05-05,Groceries,2376.98,Debit Card,D-Mart Monthly Ration
+2026-05-06,Transport,969.62,Credit Card,Uber Cab Ride
+2026-05-06,Groceries,874.27,Debit Card,Zepto Dairy & Fruits
+2026-05-07,Transport,338.68,UPI,Metro Card Recharge
+2026-05-07,Food & Dining,354.44,UPI,Starbucks Coffee
+2026-05-07,Entertainment,1420.73,Credit Card,Spotify Premium
+2026-05-08,Entertainment,815.34,Credit Card,Spotify Premium
+2026-05-09,Food & Dining,588.59,Cash,Campus Canteen
+2026-05-09,Healthcare,615.0,UPI,Wellness Supplements
+2026-05-09,Entertainment,371.62,UPI,BookMyShow Movie Tickets
+2026-05-10,Transport,676.55,Credit Card,Metro Card Recharge
+2026-05-10,Food & Dining,707.03,Debit Card,Domino's Pizza
+2026-05-11,Food & Dining,217.6,Debit Card,Swiggy Dinner Order
+2026-05-12,Groceries,521.35,Credit Card,Reliance Fresh Vegetables
+2026-05-12,Food & Dining,405.31,UPI,Zomato Lunch
+2026-05-13,,395.79,Credit Card,Starbucks Coffee
+2026-05-13,Entertainment,1523.08,UPI,Netflix Subscription
+2026-05-14,Groceries,570.69,Credit Card,Zepto Dairy & Fruits
+2026-05-14,Groceries,1796.81,Credit Card,D-Mart Monthly Ration
+2026-05-14,Transport,1009.61,Credit Card,HP Petrol Fuel
+2026-05-15,Groceries,558.56,UPI,D-Mart Monthly Ration
+2026-05-16,Food & Dining,271.59,UPI,Swiggy Dinner Order
+2026-05-16,Entertainment,1396.47,Credit Card,Netflix Subscription
+2026-05-16,Groceries,1625.05,Credit Card,Supermarket Essentials
+2026-05-17,Shopping,1411.57,Debit Card,Amazon Electronics
+2026-05-17,Groceries,1440.91,Credit Card,Blinkit Instant Groceries
+2026-05-17,Transport,122.43,Cash,Intercity Bus Ticket
+2026-05-18,Food & Dining,546.57,Cash,Zomato Lunch
+2026-05-19,,259.31,Credit Card,Weekend Bowling
+2026-05-19,Healthcare,2708.08,UPI,Apollo Pharmacy Medicines
+2026-05-20,Food & Dining,428.91,Credit Card,Swiggy Dinner Order
+2026-05-20,Healthcare,995.61,Debit Card,Wellness Supplements
+2026-05-21,Healthcare,1867.3,UPI,Wellness Supplements
+2026-05-21,Food & Dining,130.88,UPI,Domino's Pizza
+2026-05-21,,588.23,Credit Card,Campus Canteen
+2026-05-22,Entertainment,249.36,Credit Card,Netflix Subscription
+2026-05-22,Entertainment,976.03,Credit Card,Weekend Bowling
+2026-05-23,Transport,750.98,UPI,Metro Card Recharge
+2026-05-23,Food & Dining,311.08,Debit Card,Zomato Lunch
+2026-05-24,,163.51,Credit Card,Weekend Bowling
+2026-05-24,Food & Dining,310.72,UPI,Starbucks Coffee
+2026-05-24,Groceries,652.25,Credit Card,Supermarket Essentials
+2026-05-24,Healthcare,2621.3,Cash,Apollo Pharmacy Medicines
+2026-05-25,Transport,1316.94,Cash,Ola Auto
+2026-05-26,Transport,410.39,UPI,Rapido Bike Taxi
+2026-05-27,Transport,399.02,Cash,HP Petrol Fuel
+2026-05-28,,448.51,UPI,Starbucks Coffee
+2026-05-28,Shopping,3667.42,Credit Card,Flipkart Accessories
+2026-05-29,Groceries,274.66,Credit Card,Blinkit Instant Groceries
+2026-05-29,Groceries,2378.22,Credit Card,Supermarket Essentials
+2026-05-30,Food & Dining,862.11,Debit Card,Swiggy Dinner Order
+2026-05-30,Food & Dining,169.43,Cash,Campus Canteen
+2026-05-31,Entertainment,493.27,Credit Card,BookMyShow Movie Tickets
+2026-05-31,Food & Dining,720.81,Cash,Starbucks Coffee
+2026-05-31,Entertainment,1325.59,Credit Card,Spotify Premium
+2026-06-01,Rent,12000.0,Net Banking,Monthly Apartment Rent
+2026-06-01,Entertainment,1394.96,Credit Card,BookMyShow Movie Tickets
+2026-06-02,,771.95,Credit Card,Zomato Lunch
+2026-06-02,Food & Dining,365.59,Debit Card,Swiggy Dinner Order
+2026-06-03,Transport,1187.38,UPI,Metro Card Recharge
+2026-06-03,Healthcare,735.7,UPI,Lab Blood Test
+2026-06-04,Transport,466.6,Credit Card,Rapido Bike Taxi
+2026-06-05,Bills & Utilities,1774.63,UPI,Electricity & Broadband WiFi Bill
+2026-06-05,Bills & Utilities,399.0,UPI,Mobile Postpaid Recharge
+2026-06-05,Food & Dining,459.37,Credit Card,Campus Canteen
+2026-06-06,Transport,489.07,Credit Card,Metro Card Recharge
+2026-06-06,Transport,448.44,Credit Card,Metro Card Recharge
+2026-06-07,Food & Dining,190.74,Cash,Local Cafe Snacks
+2026-06-07,Entertainment,1042.5,UPI,Spotify Premium
+2026-06-08,Food & Dining,454.0,Debit Card,Campus Canteen
+2026-06-09,Food & Dining,491.67,Credit Card,Domino's Pizza
+2026-06-10,Transport,882.19,UPI,Uber Cab Ride
+2026-06-11,Food & Dining,101.25,Cash,Zomato Lunch
+2026-06-12,Groceries,2509.65,UPI,Supermarket Essentials
+2026-06-12,Groceries,1269.11,Credit Card,D-Mart Monthly Ration
+2026-06-13,Entertainment,1433.92,Credit Card,Gaming Top-up
+2026-06-13,Healthcare,1753.87,Cash,Apollo Pharmacy Medicines
+2026-06-13,Shopping,2755.13,Debit Card,Decathlon Sportswear
+2026-06-13,Transport,471.53,Credit Card,HP Petrol Fuel
+2026-06-14,Groceries,2562.48,UPI,Zepto Dairy & Fruits
+2026-06-14,Groceries,910.94,Credit Card,D-Mart Monthly Ration
+2026-06-14,Shopping,2897.21,UPI,Myntra Apparel
+2026-06-14,Transport,358.91,Cash,Metro Card Recharge
+2026-06-15,,413.24,Credit Card,Zomato Lunch
+2026-06-16,Groceries,1310.22,Debit Card,D-Mart Monthly Ration
+2026-06-17,Entertainment,178.32,UPI,Weekend Bowling
+2026-06-17,Entertainment,582.99,UPI,Gaming Top-up
+2026-06-18,Shopping,4983.95,Credit Card,Decathlon Sportswear
+2026-06-18,Groceries,1241.59,Credit Card,Zepto Dairy & Fruits
+2026-06-19,Food & Dining,621.36,Cash,Swiggy Dinner Order
+2026-06-19,Transport,154.17,UPI,HP Petrol Fuel
+2026-06-20,Food & Dining,364.8,Debit Card,Local Cafe Snacks
+2026-06-20,Entertainment,553.47,UPI,Gaming Top-up
+2026-06-21,Transport,110.84,UPI,Metro Card Recharge
+2026-06-21,Shopping,3741.36,Credit Card,Amazon Electronics
+2026-06-21,Food & Dining,212.57,Cash,Zomato Lunch
+2026-06-22,Food & Dining,688.53,Credit Card,Starbucks Coffee
+2026-06-22,Healthcare,2355.07,Debit Card,Dental Checkup
+2026-06-23,Food & Dining,669.29,Cash,Local Cafe Snacks
+2026-06-24,Transport,1169.58,UPI,Ola Auto
+2026-06-25,Transport,1135.52,UPI,Rapido Bike Taxi
+2026-06-26,Groceries,1540.2,UPI,Reliance Fresh Vegetables
+2026-06-27,Food & Dining,915.89,Cash,Domino's Pizza
+2026-06-27,Groceries,2121.18,Credit Card,Reliance Fresh Vegetables
+2026-06-27,Groceries,1482.92,Credit Card,Zepto Dairy & Fruits
+2026-06-28,Food & Dining,893.12,Cash,Starbucks Coffee
+2026-06-28,,1806.35,Debit Card,Zepto Dairy & Fruits
+2026-06-29,Food & Dining,264.54,Debit Card,Starbucks Coffee
+2026-06-29,Transport,1236.95,UPI,Rapido Bike Taxi
+2026-06-29,Food & Dining,289.98,Cash,Local Cafe Snacks
+2026-06-30,,2065.2,UPI,Zepto Dairy & Fruits
+2026-07-01,Rent,12000.0,Net Banking,Monthly Apartment Rent
+2026-07-01,Transport,456.44,Cash,Rapido Bike Taxi
+2026-07-02,Groceries,2152.14,Debit Card,Reliance Fresh Vegetables
+2026-07-02,Food & Dining,298.72,Credit Card,Swiggy Dinner Order
+2026-07-03,Healthcare,2270.49,UPI,Dental Checkup
+2026-07-03,Food & Dining,592.94,Debit Card,Campus Canteen
+2026-07-04,Food & Dining,393.97,UPI,Starbucks Coffee
+2026-07-04,Food & Dining,119.6,Debit Card,Swiggy Dinner Order
+2026-07-04,Food & Dining,835.56,UPI,Local Cafe Snacks
+2026-07-05,Bills & Utilities,1530.55,UPI,Electricity & Broadband WiFi Bill
+2026-07-05,Bills & Utilities,399.0,UPI,Mobile Postpaid Recharge
+2026-07-05,Groceries,720.13,Debit Card,Blinkit Instant Groceries
+2026-07-05,,2346.39,Debit Card,Zepto Dairy & Fruits
+2026-07-05,Transport,112.91,Credit Card,Ola Auto
+2026-07-06,Food & Dining,565.52,Credit Card,Local Cafe Snacks
+2026-07-07,Entertainment,581.16,UPI,Weekend Bowling
+2026-07-08,Transport,1046.52,Credit Card,Ola Auto
+2026-07-08,,253.6,Credit Card,Ola Auto
+2026-07-09,Groceries,1764.22,UPI,Reliance Fresh Vegetables
+2026-07-10,Transport,657.48,UPI,Intercity Bus Ticket
+2026-07-10,Shopping,3606.54,UPI,Myntra Apparel
+2026-07-11,,311.1,UPI,Zomato Lunch
+2026-07-11,Shopping,3454.97,UPI,Bookstore Purchase
+2026-07-12,Food & Dining,430.18,Cash,Starbucks Coffee
+2026-07-12,Transport,1249.62,Cash,Intercity Bus Ticket
+2026-07-12,Food & Dining,279.16,UPI,Domino's Pizza
+2026-07-13,Food & Dining,115.0,Cash,Zomato Lunch
+2026-07-13,Groceries,959.3,Debit Card,Supermarket Essentials
+2026-07-14,Food & Dining,382.73,Debit Card,Starbucks Coffee
+2026-07-14,Entertainment,628.22,UPI,Gaming Top-up
+2026-07-15,Shopping,635.32,UPI,Amazon Electronics
+2026-07-16,Shopping,4817.8,Debit Card,Amazon Electronics
+2026-07-17,Food & Dining,531.04,Cash,Campus Canteen
+2026-07-17,Shopping,1477.97,Credit Card,Bookstore Purchase
+2026-07-18,Transport,205.14,Credit Card,Intercity Bus Ticket
+2026-07-18,Transport,462.62,Credit Card,Uber Cab Ride
+2026-07-19,Shopping,1022.98,Debit Card,Amazon Electronics
+2026-07-19,Groceries,2077.34,Credit Card,Supermarket Essentials
+2026-07-20,Healthcare,931.19,Debit Card,Dental Checkup
+2026-07-20,Transport,1054.96,UPI,Ola Auto
+2026-07-21,Groceries,2632.33,Debit Card,Supermarket Essentials
+2026-07-21,Food & Dining,339.74,Cash,Campus Canteen
+2026-07-22,Groceries,1097.72,Debit Card,Supermarket Essentials
+2026-07-23,Food & Dining,686.82,Cash,Campus Canteen
+2026-07-24,Food & Dining,727.89,Cash,Domino's Pizza
+2026-07-24,Transport,1156.22,Cash,Ola Auto
+2026-07-25,,1195.98,Debit Card,Apollo Pharmacy Medicines
+2026-07-25,Entertainment,172.25,UPI,BookMyShow Movie Tickets
+2026-07-26,Food & Dining,759.93,Debit Card,Starbucks Coffee
+2026-07-26,Groceries,454.8,Credit Card,Reliance Fresh Vegetables
+2026-07-26,,1057.49,Credit Card,Zepto Dairy & Fruits
+2026-07-26,Food & Dining,629.11,Credit Card,Starbucks Coffee
+2026-07-27,Food & Dining,631.36,Cash,Swiggy Dinner Order
+2026-07-28,Food & Dining,362.21,Debit Card,Swiggy Dinner Order
+2026-07-29,Food & Dining,438.49,Credit Card,Domino's Pizza
+2026-07-30,Entertainment,1048.58,UPI,BookMyShow Movie Tickets
+2026-07-31,,897.64,Credit Card,Reliance Fresh Vegetables
+2026-08-01,Rent,12000.0,Net Banking,Monthly Apartment Rent
+2026-08-01,Entertainment,1132.54,Credit Card,BookMyShow Movie Tickets
+2026-08-01,Food & Dining,591.19,Cash,Domino's Pizza
+2026-08-01,Groceries,1020.41,Debit Card,Zepto Dairy & Fruits
+2026-08-02,Groceries,1004.47,UPI,Reliance Fresh Vegetables
+2026-08-02,Transport,413.29,Credit Card,Rapido Bike Taxi
+2026-08-03,Entertainment,1230.5,Credit Card,Spotify Premium
+2026-08-03,Groceries,1873.38,Debit Card,Supermarket Essentials
+2026-08-03,,936.49,Credit Card,Ola Auto
+2026-08-04,Food & Dining,766.09,Debit Card,Swiggy Dinner Order
+2026-08-04,Food & Dining,336.75,Cash,Domino's Pizza
+2026-08-05,Bills & Utilities,1199.12,UPI,Electricity & Broadband WiFi Bill
+2026-08-05,Bills & Utilities,399.0,UPI,Mobile Postpaid Recharge
+2026-08-05,Healthcare,1792.56,UPI,Lab Blood Test
+2026-08-05,Shopping,2883.33,Debit Card,Flipkart Accessories
+2026-08-06,Groceries,442.01,Credit Card,D-Mart Monthly Ration
+2026-08-06,Healthcare,3101.81,UPI,Lab Blood Test
+2026-08-07,Groceries,1409.7,Credit Card,Reliance Fresh Vegetables
+2026-08-08,Groceries,1970.83,UPI,Zepto Dairy & Fruits
+2026-08-08,Entertainment,625.61,Credit Card,Weekend Bowling
+2026-08-08,Transport,671.4,Cash,Intercity Bus Ticket
+2026-08-09,,112.37,UPI,Local Cafe Snacks
+2026-08-09,Entertainment,346.71,UPI,Gaming Top-up
+2026-08-10,Entertainment,757.73,UPI,BookMyShow Movie Tickets
+2026-08-10,Shopping,3559.04,Credit Card,Flipkart Accessories
+2026-08-11,Groceries,852.09,UPI,Reliance Fresh Vegetables
+2026-08-12,Entertainment,1085.0,UPI,Netflix Subscription
+2026-08-13,Entertainment,1345.08,Credit Card,Netflix Subscription
+2026-08-13,Transport,69.05,UPI,Metro Card Recharge
+2026-08-13,Shopping,1486.29,Credit Card,Bookstore Purchase
+2026-08-14,Food & Dining,753.7,UPI,Campus Canteen
+2026-08-14,Healthcare,3162.58,UPI,Lab Blood Test
+2026-08-15,,391.67,Debit Card,Zomato Lunch
+2026-08-15,Food & Dining,190.28,UPI,Local Cafe Snacks
+2026-08-15,Groceries,2233.94,Credit Card,Supermarket Essentials
+2026-08-15,Groceries,2660.81,Credit Card,Blinkit Instant Groceries
+2026-08-16,Groceries,1418.01,UPI,Blinkit Instant Groceries
+2026-08-16,Shopping,2602.68,UPI,Amazon Electronics
+2026-08-16,Groceries,2543.13,Credit Card,Reliance Fresh Vegetables
+2026-08-16,Food & Dining,623.16,Debit Card,Campus Canteen
+2026-08-17,Food & Dining,519.83,UPI,Local Cafe Snacks
+2026-08-17,Food & Dining,649.6,Credit Card,Campus Canteen
+2026-08-18,Groceries,2359.92,Debit Card,Zepto Dairy & Fruits
+2026-08-18,Food & Dining,351.9,Debit Card,Starbucks Coffee
+2026-08-18,,685.0,UPI,Uber Cab Ride
+2026-08-19,Transport,1144.01,UPI,Rapido Bike Taxi
+2026-08-20,Food & Dining,186.34,Cash,Starbucks Coffee
+2026-08-20,Transport,1357.02,Cash,Rapido Bike Taxi
+2026-08-21,Food & Dining,651.36,UPI,Zomato Lunch
+2026-08-21,Transport,196.24,Credit Card,Metro Card Recharge
+2026-08-22,Transport,1083.71,Credit Card,Rapido Bike Taxi
+2026-08-22,Transport,868.23,Credit Card,Intercity Bus Ticket
+2026-08-23,,460.22,Cash,Metro Card Recharge
+2026-08-23,Entertainment,971.17,Credit Card,Gaming Top-up
+2026-08-24,Food & Dining,729.12,Cash,Zomato Lunch
+2026-08-24,Food & Dining,401.95,Debit Card,Domino's Pizza
+2026-08-25,Food & Dining,125.77,UPI,Zomato Lunch
+2026-08-25,Food & Dining,655.89,Cash,Local Cafe Snacks
+2026-08-26,Groceries,1130.19,Debit Card,Blinkit Instant Groceries
+2026-08-27,Groceries,1036.47,Debit Card,D-Mart Monthly Ration
+2026-08-27,Food & Dining,257.85,Credit Card,Zomato Lunch
+2026-08-28,Food & Dining,512.73,Credit Card,Local Cafe Snacks
+2026-08-29,,566.09,Debit Card,Domino's Pizza
+2026-08-29,Entertainment,211.34,UPI,Netflix Subscription
+2026-08-29,Entertainment,984.85,UPI,Weekend Bowling
+2026-08-30,Food & Dining,98.15,Credit Card,Starbucks Coffee
+2026-08-30,Transport,1171.56,UPI,Metro Card Recharge
+2026-08-31,Groceries,1271.15,Debit Card,Blinkit Instant Groceries
+2026-09-01,Rent,12000.0,Net Banking,Monthly Apartment Rent
+2026-09-01,Food & Dining,757.83,UPI,Swiggy Dinner Order
+2026-09-01,Food & Dining,755.32,Credit Card,Starbucks Coffee
+2026-09-02,Food & Dining,604.09,UPI,Domino's Pizza
+2026-09-03,Groceries,2173.84,Debit Card,Supermarket Essentials
+2026-09-03,Entertainment,1082.34,UPI,Weekend Bowling
+2026-09-04,Food & Dining,139.41,Debit Card,Local Cafe Snacks
+2026-09-04,Transport,518.64,Cash,Uber Cab Ride
+2026-09-05,Bills & Utilities,1128.21,UPI,Electricity & Broadband WiFi Bill
+2026-09-05,Bills & Utilities,399.0,UPI,Mobile Postpaid Recharge
+2026-09-05,Food & Dining,640.86,Cash,Swiggy Dinner Order
+2026-09-05,Transport,1116.87,Cash,Uber Cab Ride
+2026-09-06,Food & Dining,606.36,Credit Card,Campus Canteen
+2026-09-06,,2317.97,Credit Card,Reliance Fresh Vegetables
+2026-09-06,Transport,93.23,Cash,Intercity Bus Ticket
+2026-09-07,Transport,534.9,Cash,Metro Card Recharge
+2026-09-07,,600.16,Debit Card,Domino's Pizza
+2026-09-08,Transport,426.44,Credit Card,Intercity Bus Ticket
+2026-09-09,Food & Dining,150.91,Credit Card,Domino's Pizza
+2026-09-09,Food & Dining,650.77,Cash,Domino's Pizza
+2026-09-10,Food & Dining,566.26,Debit Card,Domino's Pizza
+2026-09-10,Transport,1167.38,Credit Card,Intercity Bus Ticket
+2026-09-11,Transport,731.54,Cash,Uber Cab Ride
+2026-09-12,Food & Dining,746.56,Credit Card,Zomato Lunch
+2026-09-12,Food & Dining,337.34,UPI,Swiggy Dinner Order
+2026-09-12,Entertainment,1046.15,UPI,Weekend Bowling
+2026-09-12,Food & Dining,682.78,Credit Card,Campus Canteen
+2026-09-13,Groceries,2084.94,Credit Card,Zepto Dairy & Fruits
+2026-09-13,Transport,650.54,UPI,Rapido Bike Taxi
+2026-09-14,Groceries,2379.54,Credit Card,Reliance Fresh Vegetables
+2026-09-14,Healthcare,1585.04,Debit Card,Lab Blood Test
+2026-09-15,Food & Dining,253.74,Credit Card,Campus Canteen
+2026-09-16,Groceries,1196.59,Credit Card,Blinkit Instant Groceries
+2026-09-17,Food & Dining,743.91,Cash,Starbucks Coffee
+2026-09-17,Food & Dining,460.6,Cash,Zomato Lunch
+2026-09-17,Entertainment,751.6,UPI,Gaming Top-up
+2026-09-18,Groceries,321.88,Credit Card,Blinkit Instant Groceries
+2026-09-18,Shopping,1144.88,UPI,Flipkart Accessories
+2026-09-18,Food & Dining,693.82,UPI,Local Cafe Snacks
+2026-09-19,Food & Dining,210.08,Cash,Domino's Pizza
+2026-09-19,Food & Dining,342.0,Credit Card,Swiggy Dinner Order
+2026-09-20,Groceries,532.69,Credit Card,Zepto Dairy & Fruits
+2026-09-20,Transport,822.06,UPI,Intercity Bus Ticket
+2026-09-20,Food & Dining,386.95,Cash,Campus Canteen
+2026-09-21,Groceries,1169.54,Credit Card,Supermarket Essentials
+2026-09-21,,1862.46,Debit Card,Wellness Supplements
+2026-09-22,Groceries,2155.66,UPI,Reliance Fresh Vegetables
+2026-09-23,Transport,1089.24,Cash,Intercity Bus Ticket
+2026-09-23,Groceries,1113.3,Credit Card,D-Mart Monthly Ration
+2026-09-24,Transport,1143.64,Credit Card,Uber Cab Ride
+2026-09-24,Groceries,998.28,UPI,Blinkit Instant Groceries
+2026-09-25,Food & Dining,426.45,Cash,Campus Canteen
+2026-09-26,Food & Dining,390.57,Debit Card,Swiggy Dinner Order
+2026-09-26,Shopping,2656.6,Debit Card,Decathlon Sportswear
+2026-09-26,Healthcare,1217.11,Debit Card,Dental Checkup
+2026-09-27,Shopping,1796.94,Debit Card,Amazon Electronics
+2026-09-27,Groceries,2787.5,Credit Card,D-Mart Monthly Ration
+2026-09-28,Food & Dining,337.21,Cash,Local Cafe Snacks
+2026-09-29,Groceries,2103.38,Credit Card,Reliance Fresh Vegetables
+2026-09-30,Healthcare,3043.71,Cash,Apollo Pharmacy Medicines
+2026-10-01,Rent,12000.0,Net Banking,Monthly Apartment Rent
+2026-10-01,Shopping,3881.02,Credit Card,Amazon Electronics
+2026-10-02,Groceries,571.89,Credit Card,D-Mart Monthly Ration
+2026-10-02,Groceries,1696.47,UPI,Supermarket Essentials
+2026-10-03,Groceries,2195.87,UPI,Supermarket Essentials
+2026-10-03,,1906.38,UPI,D-Mart Monthly Ration
+2026-10-03,Food & Dining,530.44,UPI,Campus Canteen
+2026-10-03,Food & Dining,468.26,Debit Card,Campus Canteen
+2026-10-04,Food & Dining,198.08,Cash,Swiggy Dinner Order
+2026-10-04,Transport,1396.28,Cash,Intercity Bus Ticket
+2026-10-04,Transport,788.0,Cash,Metro Card Recharge
+2026-10-04,Transport,1301.16,UPI,Intercity Bus Ticket
+2026-10-05,Bills & Utilities,1481.57,UPI,Electricity & Broadband WiFi Bill
+2026-10-05,Bills & Utilities,399.0,UPI,Mobile Postpaid Recharge
+2026-10-05,Food & Dining,200.82,UPI,Local Cafe Snacks
+2026-10-06,Groceries,2756.68,Credit Card,D-Mart Monthly Ration
+2026-10-06,Food & Dining,426.4,Cash,Domino's Pizza
+2026-10-07,,822.44,Debit Card,Flipkart Accessories
+2026-10-07,Groceries,1569.27,Credit Card,D-Mart Monthly Ration
+2026-10-08,Healthcare,1497.85,UPI,Apollo Pharmacy Medicines
+2026-10-09,Food & Dining,893.22,Debit Card,Zomato Lunch
+2026-10-10,Food & Dining,148.61,Debit Card,Zomato Lunch
+2026-10-10,Food & Dining,544.13,Credit Card,Campus Canteen
+2026-10-10,Transport,272.83,Credit Card,Rapido Bike Taxi
+2026-10-11,,209.73,Credit Card,Netflix Subscription
+2026-10-11,Transport,824.41,UPI,Intercity Bus Ticket
+2026-10-12,Transport,717.33,Credit Card,Intercity Bus Ticket
+2026-10-13,Groceries,2301.95,Debit Card,Zepto Dairy & Fruits
+2026-10-13,Transport,254.99,Cash,HP Petrol Fuel
+2026-10-13,Food & Dining,204.99,Debit Card,Domino's Pizza
+2026-10-14,Healthcare,592.3,Cash,Lab Blood Test
+2026-10-14,Food & Dining,485.83,Cash,Starbucks Coffee
+2026-10-14,Food & Dining,332.48,Cash,Local Cafe Snacks
+2026-10-15,Food & Dining,364.87,Debit Card,Campus Canteen
+2026-10-15,Food & Dining,946.49,Cash,Local Cafe Snacks
+2026-10-15,Groceries,479.63,Credit Card,Zepto Dairy & Fruits
+2026-10-16,Transport,106.18,Cash,Metro Card Recharge
+2026-10-17,Transport,428.62,UPI,Uber Cab Ride
+2026-10-17,,1204.89,UPI,Gaming Top-up
+2026-10-17,,568.78,Debit Card,Starbucks Coffee
+2026-10-18,Shopping,1862.59,Debit Card,Bookstore Purchase
+2026-10-18,Food & Dining,164.11,Debit Card,Starbucks Coffee
+2026-10-18,Groceries,617.88,Credit Card,Supermarket Essentials
+2026-10-19,Food & Dining,700.82,Cash,Local Cafe Snacks
+2026-10-20,Food & Dining,890.29,Credit Card,Starbucks Coffee
+2026-10-20,Transport,1185.94,Cash,Rapido Bike Taxi
+2026-10-20,Groceries,1499.11,Debit Card,Supermarket Essentials
+2026-10-21,Food & Dining,175.36,Debit Card,Local Cafe Snacks
+2026-10-22,Transport,76.24,Cash,HP Petrol Fuel
+2026-10-22,Shopping,4369.62,Credit Card,Bookstore Purchase
+2026-10-23,Food & Dining,627.25,Cash,Campus Canteen
+2026-10-23,Transport,82.94,UPI,Intercity Bus Ticket
+2026-10-24,Groceries,1303.05,Debit Card,D-Mart Monthly Ration
+2026-10-24,,681.38,Credit Card,Intercity Bus Ticket
+2026-10-25,Food & Dining,362.79,Cash,Domino's Pizza
+2026-10-25,Food & Dining,230.67,Debit Card,Campus Canteen
+2026-10-26,Entertainment,1137.08,UPI,Spotify Premium
+2026-10-26,Food & Dining,565.54,Debit Card,Zomato Lunch
+2026-10-27,Transport,705.04,Cash,HP Petrol Fuel
+2026-10-27,Entertainment,1196.41,Credit Card,Spotify Premium
+2026-10-28,Entertainment,722.07,Credit Card,Spotify Premium
+2026-10-28,Food & Dining,701.3,Cash,Starbucks Coffee
+2026-10-29,Food & Dining,800.32,Debit Card,Starbucks Coffee
+2026-10-29,Transport,838.09,UPI,Ola Auto
+2026-10-30,Transport,111.39,Cash,HP Petrol Fuel
+2026-10-30,Food & Dining,750.57,Credit Card,Swiggy Dinner Order
+2026-10-31,Entertainment,842.3,UPI,BookMyShow Movie Tickets
+2026-10-31,Transport,1274.79,Credit Card,Uber Cab Ride
+2026-10-31,Groceries,2093.95,UPI,Blinkit Instant Groceries
+2026-10-31,Shopping,5166.31,UPI,Amazon Electronics
+2026-05-04,Food & Dining,278.27,UPI,Starbucks Coffee
+2026-07-14,  food & dining ,320.5,upi,Evening Tea & Snacks
+2026-08-09,Shopping,,Credit Card,Corrupt Failed Transaction

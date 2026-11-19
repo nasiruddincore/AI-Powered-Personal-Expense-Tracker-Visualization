@@ -1,0 +1,60 @@
+====================================================================
+         PERSONAL EXPENSE TRACKER - EXECUTIVE FINANCIAL REPORT
+====================================================================
+Generated On          : 2026-11-19 21:34:09
+Analysis Period       : 2026-05-01 to 2026-10-31
+Total Transactions    : 380
+--------------------------------------------------------------------
+1. KEY FINANCIAL METRICS
+--------------------------------------------------------------------
+Total Cumulative Spend : ₹448,788.10
+Average Monthly Spend  : ₹74,798.02
+Latest Month (2026-10)  : ₹79,705.34
+Average Daily Spend    : ₹2,439.07
+Average Transaction    : ₹1,181.02
+Highest Spend Category : Groceries (₹115,461.38 | 25.73%)
+
+--------------------------------------------------------------------
+2. CATEGORY-WISE SPENDING BREAKDOWN
+--------------------------------------------------------------------
+  • Groceries            | ₹115,461.38 |  25.7% | (75 txns)
+  • Rent                 | ₹ 72,000.00 |  16.0% | (6 txns)
+  • Shopping             | ₹ 67,960.24 |  15.1% | (25 txns)
+  • Food & Dining        | ₹ 60,476.70 |  13.5% | (128 txns)
+  • Transport            | ₹ 52,233.05 |  11.6% | (74 txns)
+  • Healthcare           | ₹ 35,905.01 |   8.0% | (20 txns)
+  • Entertainment        | ₹ 33,493.78 |   7.5% | (40 txns)
+  • Bills & Utilities    | ₹ 11,257.94 |   2.5% | (12 txns)
+
+--------------------------------------------------------------------
+3. MONTHLY SPENDING TREND
+--------------------------------------------------------------------
+  • 2026-05    | ₹ 73,603.12 | MoM Change:  +0.00%
+  • 2026-06    | ₹ 73,680.99 | MoM Change:  +0.11%
+  • 2026-07    | ₹ 68,339.58 | MoM Change:  -7.25%
+  • 2026-08    | ₹ 82,631.46 | MoM Change: +20.91%
+  • 2026-09    | ₹ 70,827.61 | MoM Change: -14.28%
+  • 2026-10    | ₹ 79,705.34 | MoM Change: +12.53%
+
+--------------------------------------------------------------------
+4. PAYMENT METHOD DISTRIBUTION
+--------------------------------------------------------------------
+  • Credit Card     | ₹128,500.82 |  28.6%
+  • UPI             | ₹125,936.92 |  28.1%
+  • Debit Card      | ₹ 77,563.29 |  17.3%
+  • Net Banking     | ₹ 72,000.00 |  16.0%
+  • Cash            | ₹ 44,787.07 |  10.0%
+
+--------------------------------------------------------------------
+5. BUDGET HEALTH CHECK (2026-10)
+--------------------------------------------------------------------
+  • Groceries          | Limit: ₹   5,500 | Spent: ₹  18,992 | [OVER BUDGET]
+  • Shopping           | Limit: ₹   4,500 | Spent: ₹  16,102 | [OVER BUDGET]
+  • Transport          | Limit: ₹   3,500 | Spent: ₹  11,046 | [OVER BUDGET]
+  • Food & Dining      | Limit: ₹   6,500 | Spent: ₹  12,282 | [OVER BUDGET]
+  • Entertainment      | Limit: ₹   2,000 | Spent: ₹   5,312 | [OVER BUDGET]
+  • Healthcare         | Limit: ₹   2,000 | Spent: ₹   2,090 | [OVER BUDGET]
+  • Rent               | Limit: ₹  12,500 | Spent: ₹  12,000 | [Within Budget]
+  • Bills & Utilities  | Limit: ₹   2,500 | Spent: ₹   1,881 | [Within Budget]
+  • Other              | Limit: ₹   1,500 | Spent: ₹       0 | [Within Budget]
+====================================================================
